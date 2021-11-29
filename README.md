@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
+<h1>Dhruvesh Gangapuram</h1>
+</div>
 
-<!--
-**Dhruvesh-Gangapuram/Dhruvesh-Gangapuram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+UI designer and Frontend developer
+</p>
 
-Here are some ideas to get you started:
+[![dhruvesh stats](https://github-readme-stats.vercel.app/api?username=Dhruvesh-Gangapuram)](https://github.com/Dhruvesh-Gangapuram)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhruvesh-Gangapuram&repo=tic_tac_toe )](https://github.com/Dhruvesh-Gangapuram/tic_tac_toe)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvesh-Gangapuram)](https://github.com/Dhruvesh-Gangapuram)
+
